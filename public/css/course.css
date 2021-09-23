@@ -1,0 +1,40 @@
+.courseMainDiv {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.courseDiv1 {
+    /* background-color: blue; */
+    padding: 4% 18%;
+}
+
+.indiCourse {
+    background-color: #f2f5f9;
+    border-radius: 15px;
+    overflow: hidden;
+    perspective: 1px;
+    margin: 2% 0;
+}
+
+.photoSection {
+    padding: 0;
+    background-color: teal;
+    text-align: center;
+}
+
+.photoSection img {
+    padding: 4% 0;
+    width: 40%;
+}
+
+.descriptionSection {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.descriptionSection h4 {
+    color: #00587a;
+}
+
+.duration span {
+    color: #C3B1E1;
+}

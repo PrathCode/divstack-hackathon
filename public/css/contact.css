@@ -1,0 +1,32 @@
+.contactMainDiv {
+    padding: 4% 6%;
+}
+
+.contactMainDiv img {
+    width: 70%;
+}
+
+.career-form,
+input {
+    border: 1px solid rgba(37, 37, 37, .3);
+    border-radius: 5px;
+    font-weight: 600;
+    margin-bottom: 20px !important;
+    opacity: .9;
+    padding: 1em 1.5em;
+    transition: all .3s ease-in-out 0s !important;
+    width: 100%;
+}
+
+.career-form,
+select,
+textarea {
+    border: 1px solid rgba(37, 37, 37, .3);
+    border-radius: 5px;
+    font-weight: 600;
+    margin-bottom: 20px !important;
+    opacity: .9;
+    padding: 1em 1.5em;
+    transition: all .3s ease-in-out 0s !important;
+    width: 100%;
+}
